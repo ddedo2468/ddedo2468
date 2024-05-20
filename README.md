@@ -4,7 +4,7 @@
 <h3 align="center">
 Hi! My name is Abdullah<br/>
 I'm a Software Engineer <br/>
-And I Love and specialized in Backend Deveopment  <br/>
+I Love and specialized in Backend Deveopment  <br/>
 </h3>
 
 <div align="center">
@@ -35,7 +35,7 @@ And I Love and specialized in Backend Deveopment  <br/>
     Backend Development
 </h3>
 
-<div align="left" style="display: flex; gap: .5rem">
+<div align="center" style="display: flex; gap: .5rem">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="40" alt="nodejs logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" alt="Flask logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" height="40" alt="Django logo"  />
@@ -47,7 +47,7 @@ And I Love and specialized in Backend Deveopment  <br/>
 </div>
 
 
-<h3 align="cenet">
+<h3 align="center">
     Tools & Utilities
 </h3>
 
@@ -65,11 +65,11 @@ And I Love and specialized in Backend Deveopment  <br/>
 </div>
 
 
-<h3 align="left">
+<h3 align="center">
     Connect with me:
 </h3>
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/abdullahxorca/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
