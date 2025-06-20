@@ -4,7 +4,7 @@
 <h3 align="center">
 Hi! My name is Abdullah<br/>
 I'm a Software Engineer <br/>
-I Love and specialized in Backend Deveopment  <br/>
+Specialized in Backend Deveopment  <br/>
 </h3>
 
 <div align="center">
