@@ -1,82 +1,127 @@
-<br clear="both">
+<div align="center">
 
+# Hi, I'm Abdullah Mesbah 👋
 
-<h3 align="center">
-Hi! My name is Abdullah<br/>
-I'm a Software Engineer <br/>
-Specialized in Backend Deveopment  <br/>
-</h3>
+### Backend Software Engineer
+
+Python • Django • Django REST Framework • REST APIs • PostgreSQL
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Mesbah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahxorca/)
+[![Email](https://img.shields.io/badge/Email-abdallahmosbah25%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdallahmosbah25@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Portfolio-111111?style=flat&logo=google-chrome&logoColor=white)](https://www.abdullahmesbah.dev/)
+
+</div>
+
+---
+
+## About Me
+
+I'm a Backend Software Engineer focused on building production backend systems with **Python, Django, and Django REST Framework**.
+
+My interests include backend architecture, REST APIs, payment systems, databases, performance, security, asynchronous processing, and infrastructure.
+
+I enjoy building systems that are not only functional, but also reliable, maintainable, and easy to evolve.
+
+---
+
+## Tech Stack
+
+### Languages
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ddedo2468.ddedo2468&"  />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css&perline=7" />
 </div>
 
-<br clear="both">
+### Backend
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddedo2468&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express&perline=5" />
 </div>
 
-<h3 align="center">
-    Programming Languages
-</h3>
-
-<div align="center" style="display: flex; gap: .5rem">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="40" alt="ts logo"  />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" alt="python logo"  />
-</div>
-
-<h3 align="center">
-    Backend Development
-</h3>
-
-<div align="center" style="display: flex; gap: .5rem">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="40" alt="nodejs logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" alt="Flask logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" height="40" alt="Django logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="40" alt="mysql logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" height="40" alt="sqlite logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" height="40" alt="postgrase logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="40" alt="mongodb logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" height="40" alt="redis logo"  />
-</div>
-
-
-<h3 align="center">
-    Tools & Utilities
-</h3>
-
-<div align="center" style="display: flex; gap: .5rem">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="40" alt="linux logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" height="40" alt="vim logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NeoVim-Dark.svg" height="40" alt="neovim logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Lua-Dark.svg" height="40" alt="lua logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" height="40" alt="bash logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" alt="git logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="github logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" alt="Nginx" width="40" height="40"/>
-</div>
-
-
-<h3 align="center">
-    Connect with me:
-</h3>
+### Databases & Caching
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdullahxorca/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:abdallahmosbah25@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://twitter.com/abdullahxorca" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&perline=5" />
+</div>
+
+### Infrastructure & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,nginx,postman,neovim,lua&perline=9" />
+</div>
+
+---
+
+## Backend Engineering
+
+- RESTful API Design
+- Data Modeling
+- Database Indexing
+- Query Optimization
+- Caching
+- Asynchronous Processing
+- Webhooks
+- Idempotency
+- Concurrency
+- API Security
+- Performance Optimization
+- System Design
+
+---
+
+## Featured Projects
+
+### Super SEO Analyzer
+
+A Django-based SEO analysis backend combining concurrent processing with NLP techniques for keyword extraction and semantic analysis.
+
+**Tech:** Python • Django • Django REST Framework • PostgreSQL • NLTK • spaCy
+
+[Repository](https://github.com/ddedo2468/SuperSEO-analyzer/tree/main/backend) ·
+[Article](https://www.linkedin.com/pulse/bridging-marketing-technology-journey-behind-my-seo-analyzer-mesbah-3ruyf/) ·
+[Demo](https://www.youtube.com/watch?v=fgcef49_Y8A)
+
+---
+
+### mes-explorer
+
+A terminal file explorer built in Python with a focus on fast navigation and a familiar command-line workflow.
+
+**Features include:**
+
+- Fuzzy file search
+- File preview
+- Syntax highlighting
+- Mouse support
+- Vim/Neovim integration
+- Configurable navigation
+
+[Repository](https://github.com/ddedo2468/mes-explorer)
+
+---
+
+## Currently Interested In
+
+**Backend Engineering**  
+Designing APIs and backend systems that remain maintainable as they grow.
+
+**Payment Systems**  
+Payment workflows, webhooks, transaction processing, reliability, and security.
+
+**Performance**  
+Database optimization, concurrency, caching, and efficient data processing.
+
+**Infrastructure**  
+Linux, Docker, deployments, monitoring, and developer tooling.
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/abdullahxorca/) ·
+[GitHub](https://github.com/ddedo2468) ·
+[Email](mailto:abdallahmosbah25@gmail.com)
+
 </div>
